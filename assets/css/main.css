@@ -11,7 +11,7 @@ html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var, b,
+strike, strong, sub, sup, tt, var, b,
 u, i, center, dl, dt, dd, ol, ul, li, fieldset,
 form, label, legend, table, caption, tbody,
 tfoot, thead, tr, th, td, article, aside,
@@ -156,7 +156,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #fff;
-		font-weight: 600;
+		font-weight: 630;
 	}
 
 	em, i {
@@ -2154,10 +2154,12 @@ input, select, textarea {
 		list-style: disc;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
+		font-size: 0.9em;
 	}
 
 		ul li {
 			padding-left: 0.5em;
+			font-size: 0.9em;
 		}
 
 		ul.alt {
@@ -2363,7 +2365,7 @@ input, select, textarea {
 		table th {
 			/*color: #fff;*/
 			font-size: 0.9em;
-			font-weight: 600;
+			font-weight: 200;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
 		}
